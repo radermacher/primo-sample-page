@@ -1,1 +1,1 @@
-# primo-sample-page
+# Built with [primo](https://primo.so)
